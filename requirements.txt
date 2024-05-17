@@ -1,2 +1,4 @@
 matplotlib
 pytest
+numpy
+pyplot
